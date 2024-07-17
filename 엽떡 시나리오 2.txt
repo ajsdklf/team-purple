@@ -1,0 +1,295 @@
+## Scenario 1: Ordering 엽기떡볶이 for the First Time
+
+**Customer:**  
+안녕하세요! 엽기떡볶이를 주문하고 싶은데요. 매운 거 잘 못 먹어서 덜 맵게 해주실 수 있나요?  
+(Hi! I'd like to order 엽기떡볶이. I can't handle spicy food well, so can you make it less spicy?)
+
+**Server:**  
+네, 덜 매운 맛으로 해드릴게요. 덜매운맛은 불닭볶음면만큼 매운데, 괜찮으시겠어요?  
+(Sure, I'll make it less spicy. The Less Spicy level is about as spicy as 불닭볶음면, is that okay for you?)
+
+**Customer:**  
+네, 괜찮아요.  
+(Yes, that's fine.)
+
+**Server:**  
+주 재료는 떡, 오뎅, 반반, 분모자가 있습니다. 어떤 걸로 하시겠어요?  
+(We have main ingredients options: rice cake, fish cake, half-and-half, or konjac. Which one would you like?)
+
+**Customer:**  
+떡으로 할게요.  
+(I'll go with rice cake.)
+
+**Server:**  
+소스는 엽기(오리지널), 로제(덜매움), 짜장, 마라 중에서 선택하실 수 있습니다. 어떤 소스로 드릴까요?  
+(For the sauce, you can choose from Original, Rose (less spicy), Jjajang, and Mala. Which one would you like?)
+
+**Customer:**  
+로제로 주세요.  
+(Rose, please.)
+
+**Server:**  
+알겠습니다. 엽기떡볶이는 양이 많아서 보통 3-4명이 같이 먹어요. 주먹밥이나 튀김 세트도 함께 주문하시겠어요?  
+(Got it. 엽기떡볶이 comes in a large portion, usually shared by 3-4 people. Would you like to order some rice balls or fried snacks as well?)
+
+**Customer:**  
+그럼요, 주먹밥 세트랑 치즈 추가해주세요. 치즈랑 같이 먹으면 더 맛있다고 들었어요.  
+(Of course, please give us the rice ball set and add cheese. I've heard it tastes even better with cheese.)
+
+**Server:**  
+알겠습니다. 단무지나 쿨피스도 같이 드릴까요? 쿨피스는 매운 맛을 중화시키는 데 좋아요.  
+(Got it. Would you like some pickled radish or Coolpis with it? Coolpis is great for balancing the spiciness.)
+
+**Customer:**  
+쿨피스 주세요. 엽기떡볶이 진짜 기대돼요!  
+(Coolpis, please. I'm really looking forward to trying 엽기떡볶이!)
+
+---
+
+## Scenario 2: Adjusting the Spiciness Level of 엽기떡볶이
+
+**Customer:**  
+저번에 엽기떡볶이 먹었는데 너무 매웠어요. 이번에는 덜 매운 맛으로 해주실 수 있나요?  
+(Last time I had 엽기떡볶이, it was too spicy. Can you make it less spicy this time?)
+
+**Server:**  
+네, 덜 매운 맛으로 해드릴게요. 덜매운맛은 불닭볶음면만큼 매운데, 괜찮으시겠어요?  
+(Sure, I'll make it less spicy. The Less Spicy level is about as spicy as 불닭볶음면, is that okay for you?)
+
+**Customer:**  
+네, 덜매운맛으로 해주세요.  
+(Yes, make it Less Spicy.)
+
+**Server:**  
+주 재료는 떡, 오뎅, 반반, 분모자가 있습니다. 어떤 걸로 하시겠어요?  
+(We have main ingredients options: rice cake, fish cake, half-and-half, or konjac. Which one would you like?)
+
+**Customer:**  
+떡으로 할게요.  
+(I'll go with rice cake.)
+
+**Server:**  
+소스는 엽기(오리지널), 로제(덜매움), 짜장, 마라 중에서 선택하실 수 있습니다. 어떤 소스로 드릴까요?  
+(For the sauce, you can choose from Original, Rose (less spicy), Jjajang, and Mala. Which one would you like?)
+
+**Customer:**  
+로제로 주세요.  
+(Rose, please.)
+
+**Server:**  
+알겠습니다. 엽기떡볶이는 양이 많아서 보통 3-4명이 같이 먹어요. 주먹밥이나 튀김 세트도 함께 주문하시겠어요?  
+(Got it. 엽기떡볶이 comes in a large portion, usually shared by 3-4 people. Would you like to order some rice balls or fried snacks as well?)
+
+**Customer:**  
+네, 주먹밥 세트랑 치즈 추가할게요. 그리고 메추리알도 추가해주세요.  
+(Yes, I'll take the rice ball set and add cheese. And please add quail eggs too.)
+
+**Server:**  
+알겠습니다. 단무지나 콜라 필요하세요?  
+(Got it. Do you need pickled radish or cola?)
+
+**Customer:**  
+네, 단무지 주세요.  
+(Yes, pickled radish, please.)
+
+---
+
+## Scenario 3: Adding Toppings to 엽기떡볶이
+
+**Customer:**  
+엽기떡볶이에 치즈 추가할 수 있나요?  
+(Can I add cheese to the 엽기떡볶이?)
+
+**Server:**  
+네, 치즈 추가 가능합니다. 다른 토핑도 원하시나요? 베이컨, 메추리알, 당면사리 등이 있습니다.  
+(Yes, you can add cheese. Do you want any other toppings? We have bacon, quail eggs, and glass noodles.)
+
+**Customer:**  
+그럼 치즈랑 당면사리 추가할게요. SNS에서 그렇게 먹는 걸 봤어요.  
+(Then I'll add cheese and glass noodles. I saw people eating it that way on social media.)
+
+**Server:**  
+알겠습니다. 매운맛은 착한맛, 초보맛, 덜매운맛, 오리지널, 매운맛 중에서 선택하실 수 있습니다. 어떤 걸로 하시겠어요?  
+(Got it. For spiciness, you can choose from Kind Spicy, Beginner Spicy, Less Spicy, Original, and Very Spicy. Which one would you like?)
+
+**Customer:**  
+덜맵게 해주세요. 그리고 주먹밥도 하나 주세요.  
+(Make it Less Spicy, please. And give me one order of rice balls.)
+
+**Server:**  
+덜매운맛은 불닭볶음면만큼 매운데, 괜찮으시겠어요?  
+(The Less Spicy level is about as spicy as 불닭볶음면, is that okay for you?)
+
+**Customer:**  
+네, 괜찮아요.  
+(Yes, that's fine.)
+
+**Server:**  
+네, 단무지나 쿨피스도 같이 드릴까요?  
+(Sure, would you like some pickled radish or Coolpis with it?)
+
+**Customer:**  
+쿨피스 주세요. 정말 기대돼요!  
+(Coolpis, please. I'm really excited!)
+
+---
+
+## Scenario 4: Ordering Set Menu at 엽기떡볶이
+
+**Customer:**  
+엽기떡볶이 세트 메뉴는 뭐가 있나요?  
+(What set menus do you have for 엽기떡볶이?)
+
+**Server:**  
+세트 메뉴로는 주먹밥이나 튀김을 포함한 다양한 조합이 있습니다. A 세트, B 세트, C 세트가 있어요. 예를 들어, B 세트는 주먹밥과 튀김이 포함되어 있습니다.  
+(We have various combinations including rice balls or fried snacks. There's A set, B set, and C set. For example, B set includes rice balls and fried snacks.)
+
+**Customer:**  
+B 세트로 주세요. 그리고 엽기떡볶이는 덜 맵게 해주세요.  
+(I'll take the B set. And please make the 엽기떡볶이 Less Spicy.)
+
+**Server:**  
+주 재료는 떡, 오뎅, 반반, 분모자가 있습니다. 어떤 걸로 하시겠어요?  
+(For the main ingredient, we have rice cake, fish cake, half-and-half, and konjac. Which one would you like?)
+
+**Customer:**  
+떡으로 할게요.  
+(I'll go with rice cake.)
+
+**Server:**  
+소스는 엽기(오리지널), 로제(덜매움), 짜장, 마라 중에서 선택하실 수 있습니다. 어떤 소스로 드릴까요?  
+(For the sauce, you can choose from Original, Rose (less spicy), Jjajang, and Mala. Which one would you like?)
+
+**Customer:**  
+로제로 주세요.  
+(Rose, please.)
+
+**Server:**  
+덜매운맛은 불닭볶음면만큼 매운데, 괜찮으시겠어요?  
+(The Less Spicy level is about as spicy as 불닭볶음면, is that okay for you?)
+
+**Customer:**  
+네, 괜찮아요
+
+.  
+(Yes, that's fine.)
+
+**Server:**  
+알겠습니다. 단무지와 쿨피스도 같이 드릴까요?  
+(Got it. Would you like some pickled radish and Coolpis with it?)
+
+**Customer:**  
+네, 같이 주세요. 친구들이랑 같이 먹을 건데 다들 기대하고 있어요.  
+(Yes, please give them together. I'm going to eat with my friends, and everyone is excited.)
+
+---
+
+## Scenario 5: Ordering 엽기떡볶이 To-Go
+
+**Customer:**  
+엽기떡볶이 포장해 주실 수 있나요?  
+(Can you pack the 엽기떡볶이 to-go?)
+
+**Server:**  
+네, 가능합니다. 엽기떡볶이는 양이 많아서 보통 3-4인분입니다. 매운맛은 착한맛, 초보맛, 덜매운맛, 오리지널, 매운맛 중에서 선택하실 수 있습니다. 어떤 걸로 하시겠어요?  
+(Yes, we can do that. 엽기떡볶이 comes in a large portion, usually for 3-4 people. For spiciness, you can choose from Kind Spicy, Beginner Spicy, Less Spicy, Original, and Very Spicy. Which one would you like?)
+
+**Customer:**  
+덜 맵게 해주세요. 그리고 치즈 추가도 부탁드려요. 친구들한테 보여주려고요.  
+(Make it Less Spicy, please. And add cheese. I want to show it to my friends.)
+
+**Server:**  
+덜매운맛은 불닭볶음면만큼 매운데, 괜찮으시겠어요?  
+(The Less Spicy level is about as spicy as 불닭볶음면, is that okay for you?)
+
+**Customer:**  
+네, 괜찮아요.  
+(Yes, that's fine.)
+
+**Server:**  
+주 재료는 떡, 오뎅, 반반, 분모자가 있습니다. 어떤 걸로 하시겠어요?  
+(For the main ingredient, we have rice cake, fish cake, half-and-half, and konjac. Which one would you like?)
+
+**Customer:**  
+떡으로 할게요.  
+(I'll go with rice cake.)
+
+**Server:**  
+소스는 엽기(오리지널), 로제(덜매움), 짜장, 마라 중에서 선택하실 수 있습니다. 어떤 소스로 드릴까요?  
+(For the sauce, you can choose from Original, Rose (less spicy), Jjajang, and Mala. Which one would you like?)
+
+**Customer:**  
+로제로 주세요.  
+(Rose, please.)
+
+**Server:**  
+알겠습니다. 단무지나 음료도 필요하세요?  
+(Got it. Do you need pickled radish or any drinks?)
+
+**Customer:**  
+네, 쿨피스도 하나 주세요.  
+(Yes, please give me a Coolpis.)
+
+**Server:**  
+알겠습니다. 포장해드릴게요. 좋은 시간 되세요!  
+(Got it. I'll pack it for you. Have a great time!)
+
+---
+
+## Scenario 6: Discussing Spiciness with Friends
+
+**Friend 1:**  
+엽기떡볶이 매운데 괜찮으시겠어요?  
+(엽기떡볶이 is spicy, are you okay with that?)
+
+**Friend 2:**  
+네, 괜찮아요. 매운 거 좋아해요. 특히 SNS에서 봤는데 정말 맛있어 보여요.  
+(Yes, it's okay. I like spicy food. I saw it on social media and it looked really delicious.)
+
+**Friend 1:**  
+저는 너무 매운 건 힘들어요. 덜 맵게 부탁드릴게요.  
+(I'm not good with very spicy food. I'll ask for it to be Less Spicy.)
+
+**Server:**  
+엽기떡볶이는 양이 많아서 보통 3-4명이 같이 먹어요. 매운맛은 착한맛, 초보맛, 덜매운맛, 오리지널, 매운맛 중에서 선택하실 수 있습니다. 어떻게 드릴까요?  
+(엽기떡볶이 comes in a large portion, usually shared by 3-4 people. For spiciness, you can choose from Kind Spicy, Beginner Spicy, Less Spicy, Original, and Very Spicy. How would you like it?)
+
+**Friend 2:**  
+덜 맵게 해주세요. 그리고 치즈 추가하고 튀김 세트도 주세요.  
+(Make it Less Spicy, please. And add cheese and the fried snacks set.)
+
+**Server:**  
+덜매운맛은 불닭볶음면만큼 매운데, 괜찮으시겠어요?  
+(The Less Spicy level is about as spicy as 불닭볶음면, is that okay for you?)
+
+**Friend 2:**  
+네, 괜찮아요.  
+(Yes, that's fine.)
+
+**Server:**  
+주 재료는 떡, 오뎅, 반반, 분모자가 있습니다. 어떤 걸로 하시겠어요?  
+(For the main ingredient, we have rice cake, fish cake, half-and-half, and konjac. Which one would you like?)
+
+**Friend 2:**  
+떡으로 할게요.  
+(I'll go with rice cake.)
+
+**Server:**  
+소스는 엽기(오리지널), 로제(덜매움), 짜장, 마라 중에서 선택하실 수 있습니다. 어떤 소스로 드릴까요?  
+(For the sauce, you can choose from Original, Rose (less spicy), Jjajang, and Mala. Which one would you like?)
+
+**Friend 2:**  
+로제로 주세요.  
+(Rose, please.)
+
+**Server:**  
+알겠습니다. 단무지나 탄산음료 필요하세요?  
+(Got it. Do you need pickled radish or soda?)
+
+**Friend 1:**  
+사이다 주세요.  
+(Soda, please.)
+
+**Friend 2:**  
+저도요. 진짜 기대돼요!  
+(Me too. I'm really looking forward to it!)
